@@ -1,0 +1,7 @@
+C:\Users\Kemal Talha\Documents\Visual Studio 2017\Projects\YuruyenRobot\YuruyenRobot\bin\Debug\YuruyenRobot.exe.config
+C:\Users\Kemal Talha\Documents\Visual Studio 2017\Projects\YuruyenRobot\YuruyenRobot\bin\Debug\YuruyenRobot.exe
+C:\Users\Kemal Talha\Documents\Visual Studio 2017\Projects\YuruyenRobot\YuruyenRobot\bin\Debug\YuruyenRobot.pdb
+C:\Users\Kemal Talha\Documents\Visual Studio 2017\Projects\YuruyenRobot\YuruyenRobot\obj\Debug\YuruyenRobot.csprojAssemblyReference.cache
+C:\Users\Kemal Talha\Documents\Visual Studio 2017\Projects\YuruyenRobot\YuruyenRobot\obj\Debug\YuruyenRobot.csproj.CoreCompileInputs.cache
+C:\Users\Kemal Talha\Documents\Visual Studio 2017\Projects\YuruyenRobot\YuruyenRobot\obj\Debug\YuruyenRobot.exe
+C:\Users\Kemal Talha\Documents\Visual Studio 2017\Projects\YuruyenRobot\YuruyenRobot\obj\Debug\YuruyenRobot.pdb
